@@ -1,0 +1,76 @@
+.root {
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.normal {
+    position: relative;
+    display: inline-block;
+    padding: 4px 16px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    min-width: 60px;
+    border: dashed 1px #333;
+    border-radius: 1em;
+    line-height: 20px;
+}
+
+.withIcon {
+    background-image: url(./icons/love.svg);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 12px 6px;
+    padding-left: 34px;
+}
+
+.js {
+    composes: withIcon;
+    background-image: url(./icons/js.svg);
+}
+
+.css {
+    composes: withIcon;
+    background-image: url(./icons/css.svg);
+}
+
+.html {
+    composes: withIcon;
+    background-image: url(./icons/html.svg);
+}
+
+.smarttv {
+    composes: withIcon;
+    background-image: url(./icons/smarttv.svg);
+}
+
+.bot {
+    composes: withIcon;
+    background-image: url(./icons/bot.svg);
+}
+
+.backend {
+    composes: withIcon;
+    background-image: url(./icons/backend.svg);
+}
+
+.lab {
+    composes: withIcon;
+    background-image: url(./icons/lab.svg);
+}
+
+.db {
+    composes: withIcon;
+    background-image: url(./icons/db.svg);
+}
+
+.github {
+    composes: withIcon;
+    background-image: url(./icons/github.svg);
+}
+
+.love {
+    composes: withIcon;
+    background-image: url(./icons/love.svg);
+}

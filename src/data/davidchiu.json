@@ -1,0 +1,244 @@
+{
+    "name": "David Chiu",
+    "position": "Frontend Developer",
+    "desc": "<p>I am a developer from Hong Kong currently working in London, with 7 years of solid experience in both frontend and backend development.</p><p>Believe in the good side of technology, I think that the connection of people can bring positive change to society, so I co-founded the Hong Kong Good Store project with my friends in 2012, aiming at reinforcing the values of independent local stores in Hong Kong. In 2016, I joined Streetlife, contributing to build the largest social network for neighborhood in UK, hoping to construct a better local community for everyone.</p>",
+    "email": "whatdoyou@ttth.ink",
+    "skills": [
+        {
+            "name": "HTML5",
+            "type": "html"
+        },
+        {
+            "name": "CSS3",
+            "type": "css"
+        },
+        {
+            "name": "ES6",
+            "type": "js"
+        },
+        {
+            "name": "react",
+            "type": "js"
+        },
+        {
+            "name": "redux",
+            "type": "js"
+        },
+        {
+            "name": "webpack",
+            "type": "js"
+        },
+        {
+            "name": "jQuery",
+            "type": "js"
+        },
+        {
+            "name": "sinon",
+            "type": "js"
+        },
+        {
+            "name": "mocha",
+            "type": "js"
+        },
+        {
+            "name": "chai",
+            "type": "js"
+        },
+        {
+            "name": "scss",
+            "type": "css"
+        },
+        {
+            "name": "less",
+            "type": "css"
+        },
+        {
+            "name": "postCSS",
+            "type": "css"
+        },
+        {
+            "name": "node",
+            "type": "js"
+        },
+        {
+            "name": "express",
+            "type": "js"
+        },
+        {
+            "name": "grunt",
+            "type": "js"
+        },
+        {
+            "name": "gulp",
+            "type": "js"
+        },
+        {
+            "name": "git",
+            "type": "github"
+        },
+        {
+            "name": "Smart TV",
+            "type": "smarttv"
+        },
+        {
+            "name": "Single Page App",
+            "type": "lab"
+        },
+        {
+            "name": "Responsive UI",
+            "type": "lab"
+        },
+        {
+            "name": "Restful Api",
+            "type": "lab"
+        },
+        {
+            "name": "Product",
+            "type": "lab"
+        },
+        {
+            "name": "A/B Test",
+            "type": "lab"
+        },
+        {
+            "name": "java",
+            "type": "backend"
+        },
+        {
+            "name": "C#",
+            "type": "backend"
+        },
+        {
+            "name": "ASP.Net MVC",
+            "type": "backend"
+        },
+        {
+            "name": "spring",
+            "type": "backend"
+        },
+        {
+            "name": "beanstalkd",
+            "type": "backend"
+        },
+        {
+            "name": "mongoDB",
+            "type": "db"
+        },
+        {
+            "name": "SQL Server",
+            "type": "db"
+        },
+        {
+            "name": "Oracle Database",
+            "type": "db"
+        },
+        {
+            "name": "mySQL",
+            "type": "db"
+        },
+        {
+            "name": "Telegram Bot",
+            "type": "bot"
+        }
+    ],
+    "experience": [
+        {
+            "time": "Aug 2016 - Jan 2017 (6 months)",
+            "title": "Streetlife",
+            "subtitle": "Frontend Developer",
+            "desc": "<p><a href='https://streetlife.com' target='_blank'>Streetlife</a> was a British leading social network for neighbourhood, connecting people together based on where they live. Acquired by US unicorn Nextdoor in Jan 2017.</p><ul><li>Contributed product ideas and developed different features on a social network platform that serve the needs of more than 1,500,000 active users and local businesses.</li><li>Contributed in revamping the website with ReactJS + Redux for better maintenance and performance.</li><li>Helped implementing AB testing features for better conversion rate.</li></ul>",
+            "tags": [
+                "ES6",
+                "HTML5",
+                "CSS3",
+                "React",
+                "Redux",
+                "Webpack",
+                "PostCSS",
+                "Mocha",
+                "Chai",
+                "Sinon",
+                "JQuery",
+                "Responsive UI",
+                "Product",
+                "A/B Testing"
+            ]
+        },
+        {
+            "time": "Jun 2014 - Oct 2015 (Hong Kong)<br>Oct 2015 - Jul 2016 (London)<br>(2 years 2 months)",
+            "title": "Accedo",
+            "subtitle": "Software Engineer",
+            "desc": "<p><a href='https://accedo.tv' target='_blank'>Accedo</a> is a global leading video centric solution provider.</p><ul><li>Helped Maxdome, the leading video-on-demand provider in Germany, to deliver video contents to over 1,000,000 users on more than 10 Smart TV platforms such as Samsung, LG, Panasonic, PlayStation, Sony and Amazon FireTV…etc.</li></ul>",
+            "tags": [
+                "Smart TV",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+                "Grunt",
+                "Gulp"
+            ]
+        },
+        {
+            "time": "Jan 2012 - Present",
+            "title": "Hong Kong Good Store",
+            "subtitle": "Co-founder",
+            "desc": "<p><a href='http://hkgoodstore.com' target='_blank'>Hong Kong Good Store</a> is a widely acclaimed non-commercial, independent part time project which tries to raise public awareness about the values of independent local stores in Hong Kong.</p><ul><li>As a Co-founder, I am responsible for making decision on effectively raise awareness (online and offline) about value of local store throughout the city.</li><li>Built a web app and an api for iOS client in order to make thousands of local independent shops searchable among public. The iOS application once hit the Top Lifestyle App Chart on Hong Kong App Store.</li><li>Built a Facebook community (<a href='https://fb.com/hkgoodstore' target='_blank'>fb.com/hkgoodstore</a>) with currently has 146,000+ organic followers in Hong Kong.</li>",
+            "tags": [
+                "Product",
+                "Marketing",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+                "Restful Api",
+                "C#",
+                "ASP.Net MVC",
+                "SQL Server"
+            ]
+        },
+        {
+            "time": "Apr 2012 - Mar 2014 (2 years)",
+            "title": "e-Perfect IT",
+            "subtitle": "Senior Analyst Programmer",
+            "desc": "<p>e-Perfect IT is a Hong Kong IT solution provider on healthcare and government projects.</p><ul><li>Revamped the Licensing and Survey of Local Vessel System of Hong Kong Marine Department, from a legacy web based system to a service-oriented architecture based system.</li><li>Built a Human Resources Management System (HRMS) for Town Health Medical Network, to manage internal human resources of over 100 clinics in the medical network.</li></ul>",
+            "tags": [
+                "Javascript",
+                "HTML5",
+                "CSS3",
+                "Restful Api",
+                "C#",
+                "Java",
+                "ASP.Net MVC",
+                "Spring",
+                "SQL Server",
+                "Oracle Database"
+            ]
+        },
+        {
+            "time": "Aug 2011 - Mar 2012 (8 months)",
+            "title": "Vance Info",
+            "subtitle": "ASP.NET Developer",
+            "desc": "<p>Vance Info is a global IT solution provider which merged with HiSoft to form Pactera in 2012.</p><ul><li>Enhanced the Telephone Betting Services to allow thousands of users betting at the same time with Voice Over IP technology.</li></ul>",
+            "tags": [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "VOIP"
+            ]
+        },
+        {
+            "time": "Nov 2009 - Jul 2011 (1 year 9 months)",
+            "title": "Time Medical",
+            "subtitle": "Software Engineer",
+            "desc": "<p>Time Medical is a startup company professional in magnetic resonance imaging (MRI).</p><ul><li>Built a viewing module of MRI console from scratch to allow radiotherapist to control a newly invented MRI machine.</li></ul>",
+            "tags": [
+                "C#"
+            ]
+        },
+        {
+            "time": "2005 - 2008",
+            "title": "The Chinese University of Hong Kong",
+            "subtitle": "B.Eng. (Hons) in Automation and Computer-aided Engineering. Minor degree in Journalism and Communication",
+            "desc": "<ul><li>United College Head List, 2007</li><li>Yu To Sang Memorial Scholarship, 2007</li><li>Shum Shuk Yuen Prize, 2007</li><li>United College Head List, 2006</li><li>Yu To Sang Memorial Scholarship, 2006</li><li>Sir Run Run Shaw Scholarship, 2006</li><li>Vigor Scholarship, 2006</li><li>Simatelex Charitable Foundation Scholarship, 2006</li><li>Menfields Scholarship, 2005</li><ul>"
+        }
+    ]
+}
