@@ -5,7 +5,6 @@
  * the base array output.
  */
 'use strict';
-
 const path = require('path');
 const srcPath = path.join(__dirname, '/../src');
 const dfltPort = 8000;
@@ -31,12 +30,12 @@ function getDefaultModules() {
             {
                 test: /\.css$/,
                 include: /styles/,
-                loader: 'classnames!style-loader!css-loader'
+                loader: 'classnames!style-loader!css-loader!postcss-loader'
             },
             {
                 test: /\.css$/,
                 exclude: /styles/,
-                loader: 'classnames!style-loader!css-loader?modules'
+                loader: 'classnames!style-loader!css-loader?modules!postcss-loader'
             },
             {
                 test: /\.sass/,
@@ -62,13 +61,13 @@ function getDefaultModules() {
                 test: /\.(mp4|ogg|svg)$/,
                 loader: 'file-loader'
             }
-        ]
+        ],
     };
 }
 
 module.exports = {
     srcPath: srcPath,
-    publicPath: '/assets/',
+    publicPath: 'assets/',
     port: dfltPort,
     getDefaultModules: getDefaultModules
 };

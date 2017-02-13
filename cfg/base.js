@@ -1,6 +1,7 @@
 'use strict';
 let path = require('path');
 let defaultSettings = require('./defaults');
+const autoprefixer = require('autoprefixer');
 
 // Additional npm or bower modules to include in builds
 // Add all foreign plugins you may need into this array
@@ -15,7 +16,7 @@ module.exports = {
     debug: true,
     devtool: 'eval',
     output: {
-        path: path.join(__dirname, './docs/assets'),
+        path: path.join(__dirname, '/../docs/assets'),
         filename: 'app.js',
         publicPath: defaultSettings.publicPath
     },
@@ -24,7 +25,7 @@ module.exports = {
         historyApiFallback: true,
         hot: true,
         port: defaultSettings.port,
-        publicPath: defaultSettings.publicPath,
+        publicPath: '/' + defaultSettings.publicPath,
         noInfo: false
     },
     resolve: {
@@ -39,5 +40,6 @@ module.exports = {
             'react/lib/ReactMount': 'react-dom/lib/ReactMount'
         }
     },
-    module: {}
+    module: {},
+    postcss: [autoprefixer()]
 };
