@@ -22,7 +22,9 @@ class AppComponent extends React.Component {
                                         desc={data.desc}
                                         name={data.name}
                                         position={data.position}
-                                        email={data.email}/>
+                                        email={data.email}
+                                        github={data.github}
+                                        linkedin={data.linkedin}/>
 
                             <SkillBox skills={data.skills}/>
 
