@@ -1,5 +1,5 @@
 ### My personal website
-https://mrredbit.github.io/me/
+http://davidchiu.io
 
 ### Contact me
 whatdoyou@ttth.ink
