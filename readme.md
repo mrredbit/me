@@ -1,5 +1,5 @@
 ### My personal website
-http://davidchiu.io
+http://about.davidchiu.io
 
 ### Contact me
 whatdoyou@ttth.ink
